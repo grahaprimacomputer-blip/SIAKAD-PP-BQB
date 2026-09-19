@@ -1,0 +1,6 @@
+{
+  "name": "Sistem Informasi PP Baitul Qur'an Belopa",
+  "description": "Sistem Informasi Pondok Pesantren Baitul Qur'an Belopa dengan manajemen data santri, pembayaran, pengeluaran, dan laporan laba rugi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
